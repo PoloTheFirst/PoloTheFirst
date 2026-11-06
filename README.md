@@ -1,7 +1,7 @@
 ## Hi there 👋
-
 <!--
-**PoloTheFirst/PoloTheFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PoloTheFirst/Pol<img width="3840" height="2160" alt="2_PC-A" src="https://github.com/user-attachments/assets/c61ba2a6-e675-4dc2-aa57-4a051b66fde8" />
+oTheFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
